@@ -12,6 +12,14 @@ package com.mycompany.shanika1;
 public class Shanika1 {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        
+        int x = 5;
+        System.out.println("Enter the first number:"+x);
+        
+int y = 6;
+System.out.println("Enter the second number:"
+        +y);
+int sum = x + y;
+System.out.println(sum);
     }
 }
